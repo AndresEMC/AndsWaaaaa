@@ -1,0 +1,38 @@
+#Computadora de uso general
+##DisDispositivo eléctrico en el cual se puede realizar múltiples tareas y de diferente 
+##índole como lo es procesar un editor de texto, reproducir audio, reproducir vídeo, almacenar 
+##información, etc.
+
+#Computadora de uso específico
+##Como en su nombre los menciona una computadora de uso específico únicamente podrá realizar 
+##(valga la redundancia) una tarea específica para la cual fue creada, como analizar códigos 
+##de barras, grabar video (grabadora, cámaras de vigilancia), leer una tarjeta de crédito o débito.
+
+#Memoria RAM
+
+##Memoria de una computadora que se encarga de almacenar información momentáneamente antes de 
+##ser guardada, es por esto que es volátil, es decir; si pierde energía toda la información 
+##que estaba procesando se perderá 
+
+#Software
+##Parte lógica de una computadora que en pocas palabras es todo lo que no se puede tocar, como
+##el sistema operativo.
+
+#Hardware
+##Sons las partes eléctricas y mecánicas de las que se compone una computadora, en pocas palabras 
+##es todo aquiello que podemos tocar
+
+#Programación 
+##Es una técnica de la ingeniería que mediante diferentes lenguajes nos permite resolver problemas
+##en conjunto con las TICS
+
+#Unidad de almacenamiento
+##Parte de una computadora donde se puede almacenar inforamción para después pueda ser o no manipulada
+##de manera permanente hasta que el usuario decida eliminarla 
+
+#Procesador
+##Parte électronica de una computadora que se encarga de realizar los procesos lógicos matematicos
+##para que una computadora sea utilizable por el usuario
+
+#Código binario
+##Lenguaje mínimo de información que una computadora puede interpretar a partir de unos y ceros 
